@@ -1,5 +1,5 @@
 # File Đề Only
-## Password (Các file có pass sẽ ghi mật khẩu trong ngoặc đơn trước đuôi file, đa số sử dụng chung 1 mật khẩu bên dưới): 
+## Password (Các file có pass sẽ ghi mật khẩu trong ngoặc đơn trước đuôi file, đa số sử dụng chung một số mật khẩu bên dưới): 
 ```
 2025@04
 ```
