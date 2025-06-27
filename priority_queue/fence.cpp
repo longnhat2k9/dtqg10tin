@@ -1,0 +1,31 @@
+#include<bits/stdc++.h>
+#include <queue>
+using namespace std;
+
+int main()
+{
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
+    freopen("fence.inp", "r", stdin);
+    freopen("fence.out", "w", stdout);
+
+    long long n; cin >> n;
+    priority_queue<long long, vector<long long>, greater<long long>>pq;
+    for(long long i = 0; i < n; i++)
+    {
+        long long x; cin >> x;
+        pq.push(x);
+    }
+
+    long long money = 0;
+    while(pq.size() > 1)
+    {
+        long long x = pq.top();
+        pq.pop();
+        money += pq.top() + x;
+        pq.push(pq.top() + x);
+        pq.pop();
+    }
+
+    cout << money << endl;
+}
