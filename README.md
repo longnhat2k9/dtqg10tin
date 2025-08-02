@@ -20,6 +20,8 @@
 
 ### Quy hoạch động 2: Dãy con tăng dài nhất (LIS - Longest Increasing Subsequence)
 
+Tài liệu: [Lis.pdf ](qhd2/lis(goi-y)(2025@04).pdf) (Pass: ```2025@04```)
+
 |Tên bài|Password|Code AC|Gợi ý|
 |---|---|---|---|
 |[Friend](qhd2/friend.pdf)|||[Friend.pdf](qhd2/friend(goi-y).pdf)|
@@ -27,7 +29,7 @@
 |[Group](qhd2/group.pdf)||||
 |[Hai dãy con](qhd2/haidaycon(2025@04).pdf)|```2025@04```|||
 |[Line](qhd2/line.pdf)|||[Line.png](qhd2/line(goi-y).png)|
-|[Lis](qhd2/lis.pdf)|||[Lis.pdf (Pass: ```2025@04```)](qhd2/lis(goi-y)(2025@04).pdf)
+|[Lis](qhd2/lis.pdf)|||
 |[Vui vẻ](qhd2/vuive.pdf)||||
 |[Walking](qhd2/walking.pdf)||||
 
