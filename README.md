@@ -315,6 +315,7 @@ Tài liệu: [Xử lý bit](xulybit/tailieu.pdf)
 |[8.1](11luyende/8.1.pdf)|
 
 #### [26.7](11luyende/26.7)
+
 |Tên bài|Password|
 |---|---|
 [cntper](11luyende/26.7/cntper.pdf)
