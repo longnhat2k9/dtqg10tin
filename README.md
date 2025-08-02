@@ -73,3 +73,82 @@ Tài liệu: Gợi ý bài tập mục này: [QHD5.pdf](qhd5/goi-y-toan-de.pdf)
 |[Hình chữ nhật 4 màu](qhd5/hcn-4-mau-voi2011(2025@05).pdf)|```2025@05```|||
 |[Nghịch thế](qhd5/nghich-the.pdf)|
 |[Phần thưởng](qhd5/phan-thuong(2025@05).pdf)|```2025@05```|
+
+## Đồ thị
+
+### DFS 1: DFS cơ bản
+
+Tài liệu: [DFS và BFS](dothi/dfs/DFSBFS_Updated.pdf)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Biến đổi số](dothi/dfs/bien-doi-so(2025@05).pdf)|```2025@05```|
+|[Circle](dothi/dfs/circle.pdf)|||[Circle.png](dothi/dfs/day-chuyen-thong-bao(goi-y).png)|
+|[Circuit](dothi/dfs/circuit(12@tin).pdf)|```12@tin```||[Circuit.jpg](dothi/dfs/circuit(goi-y).jpg)
+|[Truyền tin](dothi/dfs/comnet.pdf)|
+|[Các thành phần liên thông](dothi/dfs/connection.pdf)||[Connection.cpp](dothi/dfs/connection.cpp)|
+|[Dân cư liên thông](dothi/dfs/dan-cu-lien-thong.pdf)||[danculienthong.cpp](dothi/dfs/dan-cu-lien-thong.cpp)|
+|[Dân cư liên thông 1](dothi/dfs/dclt(2023@07).pdf)|```2023@07```|[dclt.cpp](dothi/dfs/dclt.cpp)|
+|[Dân cư liên thông 2](dothi/dfs/dclt2(2023@12).pdf)|```2023@12```|[dclt2.cpp](dothi/dfs/dclt2.cpp)|
+|[Tìm đường đi](dothi/dfs/dfs0.pdf)||[dfs0.cpp](dothi/dfs/dfs0.cpp)
+|[Đường đi DFS](dothi/dfs/duong-di-dfs.pdf)||[duongdidfs.cpp](dothi/dfs/duong-di-dfs.cpp)
+|[Khách](dothi/dfs/guest(2025@04).pdf)|```2025@04```|
+|[Quan hệ](dothi/dfs/quanhe(2023@07).pdf)|```2023@07```|
+|[Trộm](dothi/dfs/theif.pdf)
+|[Du lịch nhiều tour nhất](dothi/dfs/tour.pdf)|||[Tour.png](dothi/dfs/tour(goi-y).jpg)|
+|[Cây](dothi/dfs/tree(2025@05).pdf)|```2025@05```|
+
+### DFS 2: Thành phần liên thông mạnh
+
+Tài liệu: 
+1. [Tính liên thông](dothi/dfs2/tinhlienthong(tinhlienthong).pdf) (Pass:```tinhlienthong```)
+2. [tailieu.ppsx](dothi/dfs2/tailieu(2025@07).ppsx) (Pass:```2025@07```)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+[Đua xe đạp](dothi/dfs2/bic.pdf)||||
+[Tâm của cây](dothi/dfs2/ctree.pdf)|||[ctree.png](dothi/dfs2/ctree(goi-y).png)|
+[Thử thách](dothi/dfs2/flowers.pdf)|||[flowers.png](dothi/dfs2/thuthach(goi-y).png)|
+[Nhắn tin](dothi/dfs2/message.pdf)||[message.cpp](dothi/dfs2/message.cpp)|[message.png](dothi/dfs2/nhantin(goi-y).png)|
+[Bảng quan hệ](dothi/dfs2/rel2(2025@07).pdf)|||[rel2.png](dothi/dfs2/biendoiso2(goi-y).png)|
+[Các thành phần liên thông mạnh](dothi/dfs2/sconnect.pdf)||[sconnect.cpp](dothi/dfs2/sconnect.cpp)||
+[Những chú bò chậm chạp](dothi/dfs2/slow.pdf)||||
+[Biến đổi số](dothi/dfs2/snum(2025@05).pdf)||||
+[Hệ thống gần hoàn hảo](dothi/dfs2/sperfect.pdf)|||[sperfect.png](dothi/dfs2/hethongganhoanhao(goi-y).png)|
+[Đường một chiều](dothi/dfs2/traffic(2025@07).pdf)|||[traffic.png](dothi/dfs2/duong1chieu(goi-y).png)|
+[Những chú bò thích kẹo](dothi/dfs2/treat.pdf)||[treat.cpp](dothi/dfs2/treat.cpp||
+
+### BFS 1: Loang cơ bản
+
+Tài liệu: [Tailieu.ppsx](dothi/bfsvaloang/tailieu(2024@11).ppsx)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[BFS1](dothi/bfsvaloang/bfs-1.pdf)||[bfs1.cpp](dothi/bfsvaloang/bfs_1.cpp)||
+|[BFS2](dothi/bfsvaloang/bfs2.pdf)||[bfs2.cpp](dothi/bfsvaloang/bfs2.pdf)||
+|[BFS3](dothi/bfsvaloang/bfs3(2023@09).pdf)|```2023@09```|[bfs3.cpp](dothi/bfsvaloang/bfs3.cpp)||
+|[BFS có hướng](dothi/bfsvaloang/bfscohuong.pdf)||[bfscohuong.cpp](dothi/bfsvaloang/bfscohuong.cpp)||
+|[BFS vô hướng](dothi/bfsvaloang/bfsvohuong.pdf)||[bfsvohuong.cpp](dothi/bfsvaloang/bfsvohuong.pdf)||
+|[Đếm đỉnh](dothi/bfsvaloang/demdinh.pdf)||[demdinh.cpp](dothi/bfsvaloang/demdinh.cpp)||
+|[Đếm vùng](dothi/bfsvaloang/demvung(11@tin).pdf)|```11@tin```|[demvung.cpp](dothi/bfsvaloang/demvung.cpp)||
+|[Ebola](dothi/bfsvaloang/ebola.pdf)||[ebola.cpp](dothi/bfsvaloang/ebola.cpp)||
+|[Nông trại](dothi/bfsvaloang/farm(11@tin).pdf)|```11@tin```|[farm.cpp](dothi/bfsvaloang/farm.cpp)||
+|[Ma trận 0 - 1](dothi/bfsvaloang/matran-0-1.pdf)||||
+|[Mê cung 0](dothi/bfsvaloang/mecung0(11@tin).pdf)|```11@tin```|[mecung0.cpp](dothi/bfsvaloang/mecung0.cpp)||
+|[Mê cung 1](dothi/bfsvaloang/mecung1(11@tin).pdf)|```11@tin```|[mecung1.cpp](dothi/bfsvaloang/mecung1.cpp)||
+|[Mê cung 2](dothi/bfsvaloang/mecung2(11@tin).pdf)|```11@tin```|[mecung2.cpp](dothi/bfsvaloang/mecung2.cpp)||
+|[Mê cung 3](dothi/bfsvaloang/mecung3(11@tin).pdf)|```11@tin```|||
+|[Mê cung 4](dothi/bfsvaloang/mecung4(11@tin).pdf)|```11@tin```|||
+|[Picture](dothi/bfsvaloang/picture(11@tin).pdf)|```11@tin```|||
+|[Quân mã](dothi/bfsvaloang/quanma.pdf)||[quanma.cpp](dothi/bfsvaloang/quanma.cpp)||
+|[Quân tượng đi lạc](dothi/bfsvaloang/quantuongdilac.pdf)||||
+|[Di chuyển robot](dothi/bfsvaloang/rmove.pdf)||||
+|[Thoát khỏi mê cung](dothi/bfsvaloang/thoatkhoimecung(2023@05).pdf)||[thoatkhoimecung.cpp](dothi/bfsvaloang/thoatkhoimecung.cpp)||
+|[Vmunch](dothi/bfsvaloang/vmunch.pdf)||[vmunch.cpp](dothi/bfsvaloang/vmunch.cpp)||
+
+### BFS 2: Loang trạng thái, Heap,...
+
+
+
+### Khớp - Cầu - Song
+### Cây khung
