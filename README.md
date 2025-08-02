@@ -130,7 +130,7 @@ Tài liệu: [Tailieu.ppsx](dothi/bfsvaloang/tailieu(2024@11).ppsx)
 |[BFS2](dothi/bfsvaloang/bfs2.pdf)||[bfs2.cpp](dothi/bfsvaloang/bfs2.pdf)||
 |[BFS3](dothi/bfsvaloang/bfs3(2023@09).pdf)|```2023@09```|[bfs3.cpp](dothi/bfsvaloang/bfs3.cpp)||
 |[BFS có hướng](dothi/bfsvaloang/bfscohuong.pdf)||[bfscohuong.cpp](dothi/bfsvaloang/bfscohuong.cpp)||
-|[BFS vô hướng](dothi/bfsvaloang/bfsvohuong.pdf)||[bfsvohuong.cpp](dothi/bfsvaloang/bfsvohuong.pdf)||
+|[BFS vô hướng](dothi/bfsvaloang/bfsvohuong.pdf)||[bfsvohuong.cpp](dothi/bfsvaloang/bfsvohuong.cpp)||
 |[Đếm đỉnh](dothi/bfsvaloang/demdinh.pdf)||[demdinh.cpp](dothi/bfsvaloang/demdinh.cpp)||
 |[Đếm vùng](dothi/bfsvaloang/demvung(11@tin).pdf)|```11@tin```|[demvung.cpp](dothi/bfsvaloang/demvung.cpp)||
 |[Ebola](dothi/bfsvaloang/ebola.pdf)||[ebola.cpp](dothi/bfsvaloang/ebola.cpp)||
