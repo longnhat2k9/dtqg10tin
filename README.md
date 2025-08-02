@@ -116,7 +116,7 @@ Tài liệu:
 [Biến đổi số](dothi/dfs2/snum(2025@05).pdf)||||
 [Hệ thống gần hoàn hảo](dothi/dfs2/sperfect.pdf)|||[sperfect.png](dothi/dfs2/hethongganhoanhao(goi-y).png)|
 [Đường một chiều](dothi/dfs2/traffic(2025@07).pdf)|||[traffic.png](dothi/dfs2/duong1chieu(goi-y).png)|
-[Những chú bò thích kẹo](dothi/dfs2/treat.pdf)||[treat.cpp](dothi/dfs2/treat.cpp||
+[Những chú bò thích kẹo](dothi/dfs2/treat.pdf)||[treat.cpp](dothi/dfs2/treat.cpp)||
 
 ### BFS 1: Loang cơ bản
 
