@@ -148,7 +148,195 @@ Tài liệu: [Tailieu.ppsx](dothi/bfsvaloang/tailieu(2024@11).ppsx)
 
 ### BFS 2: Loang trạng thái, Heap,...
 
+Tài liệu: [Heap.ppsx](dothi/bfsloang2/heap(2022@C).ppsx) (Pass:```2022@C```)
 
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Ball Game](dothi/bfsloang2/ballgame.pdf)||||
+|[Di chuyển xe](dothi/bfsloang2/dichuyenxe.pdf)||||
+|[Hexgame 1](dothi/bfsloang2/hexgame1.pdf)||||
+|[Hexgame 16](dothi/bfsloang2/hexgame16.pdf)||||
+|[Numtab](dothi/bfsloang2/numtab.pdf)||||
+|[Path](dothi/bfsloang2/path.pdf)||||
+|[Path Game](dothi/bfsloang2/pathgame.pdf)||[pathgame.cpp](dothi/bfsloang2/pathgame.cpp)||
+|[Pikachu](dothi/bfsloang2/pikachu.pdf)||||
+|[Pikachu 2](dothi/bfsloang2/pikachu2.pdf)||||
+|[Pour](dothi/bfsloang2/pour.pdf)|||[pour.pdf](dothi/bfsloang2/pour(goi-y).pdf)|
 
 ### Khớp - Cầu - Song
+
+Tài liệu: [Khớp - Cầu - Song liên thông](dothi/khopcausong/07KhopCauSonglienthong(kcsltdt).pdf)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Đường phố](dothi/khopcausong/avenues.pdf)||||
+|[Thăm viếng lẫn nhau](dothi/khopcausong/blo.pdf)||||
+|[Ngôi nhà xanh](dothi/khopcausong/bluehouse(2025@07).pdf)||||
+|[Sửa cầu](dothi/khopcausong/cbridge(2025@07).pdf)|```2025@07```|||
+|[Sửa mạng](dothi/khopcausong/checknet(2025@07).pdf)|```2025@07```|||
+|[Nút giao trọng điểm](dothi/khopcausong/cnode.pdf)||[cnode.cpp](dothi/khopcausong/cnode.cpp)||
+|[Thành phố trọng yếu](dothi/khopcausong/critical.pdf)||||
+|[Khớp và cầu](dothi/khopcausong/cut.pdf)||||
+|[Hệ thống điện](dothi/khopcausong/enet.pdf)||||
+|[Thêm chu trình](dothi/khopcausong/onecyc.pdf)||||
+|[Hỗ trợ cảnh sát](dothi/khopcausong/policija.pdf)||||
+|[Kể hoạch cải tổ](dothi/khopcausong/reform(2025@07).pdf)|```2025@07```|||
+|[Robot](dothi/khopcausong/robot(2025@07).pdf)|```2025@07```|||
+|[Mạng máy tính an toàn](dothi/khopcausong/safenet(dothislt).pdf)|```dothislt```|||
+|[Mạng máy tính an toàn 0](dothi/khopcausong/safenet0(dothislt).pdf)|```dothislt```|||
+|[Đường truyền quan trọng](dothi/khopcausong/trapa(2025@07).pdf)|```2025@07```|||
+
 ### Cây khung
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Đóng chuồng](caykhung/closing.pdf) ||||
+|[Nối mạng](caykhung/connection(dtcknn).pdf) |```dtcknn```|||
+|[Đường cao tốc](caykhung/highway.pdf) ||||
+|[Cây khung nhỏ nhất](caykhung/mst.pdf) ||||
+|[Cây khung nhỏ nhất 1](caykhung/mst1.pdf) ||||
+|[Mạng máy tính](caykhung/net.pdf) ||||
+|[Mạng rút gọn](caykhung/nreduce(dtcknn).pdf) |```dtcknn```|||
+|[Cây khung](caykhung/smst(dtcknn).pdf) |```dtcknn```|||
+|[Đếm cặp](caykhung/vcpairs.pdf) ||||
+|[Nối dây](caykhung/wires.pdf)||||
+
+### Disjon Set
+
+Tài liệu: [Disjon Set (Pass: ```2019@07```)](disjon_set/Disjon_Set(2019@07).ppsx)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Cắt bánh](disjon_set/cake.pdf)||||
+|[Miền hai màu](disjon_set/coloring.pdf)||||
+|[Liên lạc](disjon_set/contact.pdf)||||
+|[Xếp đồ](disjon_set/drawer.pdf)||||
+|[Đếm số thành phần liên thông](disjon_set/dsf(2019@07).pdf)|```2019@07```|[dsf.cpp](disjon_set/dsf.cpp)||
+|[Fillnum](disjon_set/fillnum.pdf)|||[islands-fillnum-findseq.ppsx (Pass: ```2023@07```)](disjon_set/islands-fillnum-findset(2023@07).ppsx)|
+|[Tìm dãy số](disjon_set/findseq.pdf)|||[islands-fillnum-findseq.ppsx (Pass: ```2023@07```)](disjon_set/islands-fillnum-findset(2023@07).ppsx)|
+|[Rừng](disjon_set/forest.pdf)||||
+|[Các thùng nước](disjon_set/ioibin.pdf)||[ioibin.cpp](disjon_set/ioibin.cpp)||
+|[Các hòn đảo](disjon_set/islands(2019@07).pdf)|```2019@07```||[islands-fillnum-findseq.ppsx (Pass: ```2023@07```)](disjon_set/islands-fillnum-findset(2023@07).ppsx)|
+|[Mê cung](disjon_set/LABYRINTH.pdf)||||
+|[Dãy số](disjon_set/rseq.pdf)||||
+|[Trượt tuyết](disjon_set/ski.pdf)||||
+|[Bảo tồn động vật hoang giã](disjon_set/wildlife.pdf)||||
+|[Đồ thị 2 màu](disjon_set/yg(2019@07).pdf)|```2019@07```|||
+
+
+## Bit 
+
+### Xử lý bit
+
+Tài liệu: [Xử lý bit](xulybit/tailieu.pdf)
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Bộ ba phân loại](xulybit/bo-ba-phan-loai.pdf)||||
+|[Đa tập](xulybit/da-tap.pdf)||||
+|[Max XOR](xulybit/max-XOR.pdf)||||
+|[Phân công](xulybit/phancong.pdf)||||
+|[Phân loại](xulybit/phanloai.pdf)||[phanloai.cpp](xulybit/phanloai.cpp)||
+|[Phân loại 2](xulybit/phanloai2.pdf)||||
+|[Phân tích số 2](xulybit/phantichso2.pdf)||||
+|[Phép toán bitwise AND](xulybit/pheptoanbitwiseand.pdf)||||
+|[Toán tử AND](xulybit/toan-tu-AND.pdf)||||
+|[Tổng AND](xulybit/tong-AND.pdf)||||
+|[Tổng XOR](xulybit/tong-XOR.pdf)||||
+|[Tổng XOR 2](xulybit/tong-XOR2.pdf)||||
+
+### Bit và Quy hoạch động
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[A](bit&qhd/715618-A.pdf)
+|[B](bit&qhd/715618-B.pdf)
+|[C](bit&qhd/715618-C.pdf)
+|[D](bit&qhd/715618-D.pdf)
+
+## Queue
+
+### Priority Queue
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Bôc sỏi](priority_queue/bocsoi(2024@08).pdf)|```2024@08```|[bocsoi.cpp](priority_queue/bocsoi13.cpp)||
+|[Mua hàng giảm giá](priority_queue/coupons.pdf)||[coupon.cpp](priority_queue/coupons.cpp)|[coupon.ppsx (Pass: ```c```)](priority_queue/coupon(c).ppsx)|
+|[Hàng rào](priority_queue/fence(2022@12).pdf)|```2022@12```|[fence.cpp](priority_queue/fence.cpp)||
+|[Bể cá](priority_queue/fishpool.pdf)|||[peach-pool.pdf (Pass:```pp```)](priority_queue/peach-pool(goi-y)(pp).ppsx)|
+|[Chuyển đá](priority_queue/gravels.pdf)||[gravels.cpp](priority_queue/gravels.cpp)||
+|[Một chút về HuffmanTree](priority_queue/heap1(2024@08).pdf)||[heap1.cpp](priority_queue/heap1.cpp)||
+|[Hệ thống chấm bài](priority_queue/judger.pdf)||||
+|[KMIN](priority_queue/kmin.pdf)||[kmin.cpp](priority_queue/kmin.cpp)||
+|[Truy vấn](priority_queue/listman(2018@10).pdf)|```2018@10```|[listman.cpp](priority_queue/listman.cpp)|[listman.ppsx (Pass: ```2025@07```)](priority_queue/listman(goi-y)(2025@07).ppsx)|
+|[Trung vị](priority_queue/median.pdf)||||
+|[Mua hàng](priority_queue/muahang.pdf)||[buy.cpp](priority_queue/buy.cpp)||
+|[Chia đoạn](priority_queue/partition.pdf)||[partition](priority_queue/partition.cpp)|[partition.ppsx (Pass: ```p```)](priority_queue/partition(goi-y)(p).ppsx)|
+|[Đào](priority_queue/peach(2022@12).pdf)|```2022@12```|[peach.cpp](priority_queue/peach.cpp)|[peach-pool.pdf (Pass:```pp```)](priority_queue/peach-pool(goi-y)(pp).ppsx)|
+|[Hàng đợi có độ ưu tiên](priority_queue/pq(2024@08).pdf)|```2024@08```|[pq.cpp](priority_queue/pq.cpp)||
+
+### Deque
+
+|Tên bài|Password|Code AC|Gợi ý|
+|---|---|---|---|
+|[Thuê xe](deque/bicycle.pdf) ||[bicycles.cpp](deque/BICYCLES.cpp)||
+|[Thằng bờm và phú ông](deque/BOTTLES.pdf) ||||
+|[Pha rượu](deque/cocktail(2020@08).pdf) |```2020@08```|||
+|[Xóa dãy](deque/delarr.pdf) ||[delarr.cpp](deque/DELARR.cpp)||
+|[Đủ chất](deque/foot(2024@12).pdf) |```2024@12```|||
+|[Ếch săn mồi](deque/frog.pdf) ||||
+|[Trạm xăng](deque/gas.pdf) ||||
+|[Vùng đất](deque/LANDVAL.pdf) ||||
+|[Bội nhỏ nhất](deque/lm.pdf) ||||
+|[Giá trị nhỏ nhất](deque/minimumk.pdf) ||[minimumk.cpp](deque/MINIMUMK.cpp)||
+|[Biến đổi](deque/NUMTRANS.pdf) ||||
+|[Những người nổi tiếng](deque/viplist.pdf)||||
+
+
+## Đề luyện tập
+
+### Đề 10
+
+|Tên đề|Password|
+|---|---|
+|[1](conguyet/De1_DuTuyen10.pdf)|
+|[2](conguyet/DE2_DT10.pdf)|
+|[3](conguyet/De3_DuTuyen10.pdf)|
+|[5](conguyet/DT5.pdf)|
+|[6](conguyet/DeThi6.pdf)|
+
+### Đề 11
+
+|Tên đề|Password|
+|---|---|---|---|
+|[25.7](11luyende/25.7.pdf)|
+|[29.7](11luyende/29.7.pdf)|
+|[8.1](11luyende/8.1.pdf)|
+
+#### [26.7](11luyende/26.7)
+|Tên bài|Password|
+|---|---|
+[cntper](11luyende/26.7/cntper.pdf)
+[coloring](11luyende/26.7/coloring.pdf)
+[factorial](11luyende/26.7/factorial.pdf)
+[fishes](11luyende/26.7/fishes.pdf)
+[labyrinth](11luyende/26.7/labyrinth.pdf)
+[onecyc](11luyende/26.7/onecyc.pdf)
+[ski](11luyende/26.7/ski.pdf)
+[trafic](11luyende/26.7/traffic(2025@07).pdf)|```2025@07```|
+
+
+#### [28.7](11luyende/28.7)
+
+|Tên bài|Password|
+|---|---|
+[cake](11luyende/28.7/cake.pdf)|
+[camera](11luyende/28.7/camera.pdf)|
+[contact](11luyende/28.7/contact.pdf)|
+[findseq](11luyende/28.7/findseq.pdf)|
+[frogs](11luyende/28.7/frogs(2014@12).pdf)|```2014@12```
+[pairs](11luyende/28.7/pairs.pdf)|
+[queue](11luyende/28.7/queue.pdf)|
+[rect](11luyende/28.7/rect(2019@04).pdf)|```2019@04```
+[rseq](11luyende/28.7/rseq.pdf)|
+[slegdog](11luyende/28.7/slegdogs.pdf)|
