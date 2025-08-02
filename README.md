@@ -304,11 +304,12 @@ Tài liệu: [Xử lý bit](xulybit/tailieu.pdf)
 |[3](conguyet/De3_DuTuyen10.pdf)|
 |[5](conguyet/DT5.pdf)|
 |[6](conguyet/DeThi6.pdf)|
+|[Lần 3](l3(dt10@2025).pdf)|```dt10@2025```
 
 ### Đề 11
 
 |Tên đề|Password|
-|---|---|---|---|
+|---|---|
 |[25.7](11luyende/25.7.pdf)|
 |[29.7](11luyende/29.7.pdf)|
 |[8.1](11luyende/8.1.pdf)|
