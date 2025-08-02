@@ -318,27 +318,27 @@ Tài liệu: [Xử lý bit](xulybit/tailieu.pdf)
 
 |Tên bài|Password|
 |---|---|
-[cntper](11luyende/26.7/cntper.pdf)
-[coloring](11luyende/26.7/coloring.pdf)
-[factorial](11luyende/26.7/factorial.pdf)
-[fishes](11luyende/26.7/fishes.pdf)
-[labyrinth](11luyende/26.7/labyrinth.pdf)
-[onecyc](11luyende/26.7/onecyc.pdf)
-[ski](11luyende/26.7/ski.pdf)
-[trafic](11luyende/26.7/traffic(2025@07).pdf)|```2025@07```|
+|[cntper](11luyende/26.7/cntper.pdf)
+|[coloring](11luyende/26.7/coloring.pdf)
+|[factorial](11luyende/26.7/factorial.pdf)
+|[fishes](11luyende/26.7/fishes.pdf)
+|[labyrinth](11luyende/26.7/labyrinth.pdf)
+|[onecyc](11luyende/26.7/onecyc.pdf)
+|[ski](11luyende/26.7/ski.pdf)
+|[trafic](11luyende/26.7/traffic(2025@07).pdf)|```2025@07```|
 
 
 #### [28.7](11luyende/28.7)
 
 |Tên bài|Password|
 |---|---|
-[cake](11luyende/28.7/cake.pdf)|
-[camera](11luyende/28.7/camera.pdf)|
-[contact](11luyende/28.7/contact.pdf)|
-[findseq](11luyende/28.7/findseq.pdf)|
-[frogs](11luyende/28.7/frogs(2014@12).pdf)|```2014@12```
-[pairs](11luyende/28.7/pairs.pdf)|
-[queue](11luyende/28.7/queue.pdf)|
-[rect](11luyende/28.7/rect(2019@04).pdf)|```2019@04```
-[rseq](11luyende/28.7/rseq.pdf)|
-[slegdog](11luyende/28.7/slegdogs.pdf)|
+|[cake](11luyende/28.7/cake.pdf)|
+|[camera](11luyende/28.7/camera.pdf)|
+|[contact](11luyende/28.7/contact.pdf)|
+|[findseq](11luyende/28.7/findseq.pdf)|
+|[frogs](11luyende/28.7/frogs(2014@12).pdf)|```2014@12```
+|[pairs](11luyende/28.7/pairs.pdf)|
+|[queue](11luyende/28.7/queue.pdf)|
+|[rect](11luyende/28.7/rect(2019@04).pdf)|```2019@04```
+|[rseq](11luyende/28.7/rseq.pdf)|
+|[slegdog](11luyende/28.7/slegdogs.pdf)|
